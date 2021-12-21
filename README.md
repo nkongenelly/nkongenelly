@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nkongenelly
 - 👀 I’m a Software Engineer by Passion
-- 🌱 I’m currently learning AI, django, linux, blockchain
+- 🌱 I’m currently learning AI, PHP, JS, django, linux, blockchain
 - 📫  My work Experience Summary ... coming soon
 
 <table><tr></tr></table>
